@@ -72,8 +72,8 @@ body {
 }
 
 .board-row:after {
-clear: both;
-  content: '';
+  clear: both;
+  content: "";
   display: table;
 }
 

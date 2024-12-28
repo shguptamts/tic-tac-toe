@@ -47,8 +47,8 @@ export default function Board() {
       ) {
         return squares[a];
       }
-      return null;
     }
+    return null;
   }
 
   const winner = calculateWinner(squares);
