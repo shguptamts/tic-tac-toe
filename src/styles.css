@@ -54,6 +54,11 @@ body {
   font-family: sans-serif;
   margin: 20px;
   padding: 0;
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;    /* Centers vertically */
+  height: 100vh;          /* Full viewport height */
+  margin: 0;              /* Removes default margin */
 }
 
 .square {
